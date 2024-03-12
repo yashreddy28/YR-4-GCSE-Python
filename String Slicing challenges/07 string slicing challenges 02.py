@@ -1,0 +1,13 @@
+yourfirstname = str(input("Enter your first name >>>"))
+print("")
+yoursecondname = str(input("Enter your last name >>>"))
+print("")
+print(yourfirstname)
+print("")
+print(yoursecondname)
+print("")
+yourfullname = yourfirstname+yoursecondname
+print("")
+print(yourfullname)
+print("")
+print(len(yourfullname))
